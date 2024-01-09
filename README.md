@@ -1,1 +1,2 @@
-# sentiment-analysis
+# sentiment-analysis-for-restuarent-reviews
+Welcome to the Sentiment Analysis for Restaurant Reviews project! This project aims to analyze the sentiment of restaurant reviews to help businesses understand customer opinions and feedback. The application uses natural language processing techniques to categorize reviews into positive, negative, or neutral sentiments, providing valuable insights for restaurant owners and managers.
